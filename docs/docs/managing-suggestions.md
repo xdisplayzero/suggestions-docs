@@ -108,5 +108,6 @@ Since December 2, 2018, you've had the ability to add notes to a submitted sugge
 To add a note to a suggestion, simply retrieve the sID or message ID and run `note <sID|suggestion ID> <note>`, where `note` can be any message you wish to choose. Upon adding a note, the submitter of the suggestion will receive a DM with that information:
 
 ![An example of a suggestion note in DM](/images/managing-suggestions-10.png)
+/assets/images/electrocat.png
 
 A new note can be added, and it'll override the current note on the suggestion. However, all previous notes are saved and will be accessible in the future (TBD).
